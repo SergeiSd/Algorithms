@@ -1,0 +1,1 @@
+for num in range(100): print((num % 3 // 2) * 'Fizz' + (num % 5 // 4) * 'Buzz' or num+1)
